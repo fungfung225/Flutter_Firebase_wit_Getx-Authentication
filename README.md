@@ -1,6 +1,6 @@
 # firebase
 
-Set up firebase app for iOS and Android.  Use Getx with firebase for user Authentication like login, register and logout.
+Set up firebase app for iOS and Android.  Use Getx with firebase for user Authentication like login, register and logout
 
 ### Sign in Page
 ![圖片](https://user-images.githubusercontent.com/90837134/207669388-2e317afd-1695-495f-9250-591d65d3d8cb.png)
